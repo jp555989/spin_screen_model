@@ -3,6 +3,6 @@ This is a model made in Blender by me, which you can 3D print and put together w
 
 It's important to keep in mind this is only the 'body', you also need PCB boards specifically designed for this task.
 
-The 'propeller' size is flexible and therefore can be changed into a bigger one as to fit more LEDS.
+The 'propeller' size is flexible and therefore can be changed into a bigger one as to fit more LEDS, by default it's 18cm in length.
 
 ![spinscreen](https://github.com/user-attachments/assets/4c4cb178-ba65-4b65-ba1a-2e14073b370f)
