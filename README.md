@@ -1,5 +1,5 @@
 # spin_screen_model
-This is a model made in Blender by me which you can 3D print and put together with couple of 2mm-5mm screws, ball bearing, slip ring, and possibly a drill, the premise of it is to create a 3D display based on LEDs rotating. 
+This is a model made in Blender by me, which you can 3D print and put together with couple of 2mm-5mm screws, ball bearing, slip ring, and possibly a drill, the premise of it is to create a 3D display based on LEDs rotating. 
 
 It's important to keep in mind this is only the 'body', you also need PCB boards specifically designed for this task.
 
